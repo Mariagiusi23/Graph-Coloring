@@ -1,0 +1,7 @@
+graph,strategy,num_edges,num_colors,conflicts,conflict_rate
+g6,largest_first,1056,15,0,0.0
+g6,smallest_last,1056,16,0,0.0
+g6,saturation_largest_first,1056,13,0,0.0
+g12,largest_first,3973,31,0,0.0
+g12,smallest_last,3973,32,0,0.0
+g12,saturation_largest_first,3973,31,0,0.0

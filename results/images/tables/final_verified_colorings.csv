@@ -1,0 +1,3 @@
+graph,target_c,seed,raw_conflicts,repaired_conflicts,verified_conflicts,colors_used,coloring_file,valid_coloring
+g6,11,0,17,0,0,11,g6_c11_seed0_coloring.csv,True
+g12,36,0,28,0,0,36,g12_c36_seed0_coloring.csv,True
