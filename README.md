@@ -145,11 +145,11 @@ I risultati mostrano inoltre che la sola GNN non raggiunge direttamente zero con
 
 ```text
 .
-├── graph_coloring_Decicco_Nicodemo.ipynb
+├── graph_coloring.ipynb
 ├── relazione_DeCicco_Nicodemo.pdf
 ├── README.md
 ├── LICENSE
-└── requirements.txt
+└── results
 ```
 
 ## ⚙️ Setup
@@ -157,8 +157,8 @@ I risultati mostrano inoltre che la sola GNN non raggiunge direttamente zero con
 ### 1️⃣ Clonare la repository
 
 ```bash
-git clone https://github.com/TUO_USERNAME/NOME_REPOSITORY.git
-cd NOME_REPOSITORY
+git clone https://github.com/Mariagiusi23/Graph-Coloring.git
+cd Graph-Coloring
 ```
 
 ### 2️⃣ Creare un ambiente virtuale
@@ -183,19 +183,6 @@ Attivazione su Windows:
 
 ```bash
 pip install -r requirements.txt
-```
-
-Un possibile file `requirements.txt` minimale è:
-
-```txt
-numpy
-pandas
-matplotlib
-networkx
-torch
-torch-geometric
-ipywidgets
-jupyter
 ```
 
 A seconda della versione di CUDA e del sistema operativo, `torch` e `torch-geometric` potrebbero richiedere installazioni specifiche dai rispettivi siti ufficiali.
