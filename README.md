@@ -149,6 +149,7 @@ I risultati mostrano inoltre che la sola GNN non raggiunge direttamente zero con
 ├── relazione_DeCicco_Nicodemo.pdf
 ├── README.md
 ├── LICENSE
+├── requirements.txt
 └── results
 ```
 
