@@ -193,7 +193,7 @@ A seconda della versione di CUDA e del sistema operativo, `torch` e `torch-geome
 Per eseguire il progetto localmente:
 
 ```bash
-jupyter notebook graph_coloring_Decicco_Nicodemo.ipynb
+jupyter notebook graph_coloring.ipynb
 ```
 
 oppure:
@@ -327,5 +327,6 @@ Possibili miglioramenti futuri includono:
 Questo progetto è distribuito con licenza **MIT**.
 
 Consulta il file `LICENSE` per i dettagli.
+
 
 
