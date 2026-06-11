@@ -203,6 +203,11 @@ oppure:
 jupyter lab
 ```
 
+Il progetto può essere eseguito anche direttamente su Google Colab tramite il seguente link:
+
+[![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjJHC8o4940Sf6CJBONgPTW135KaMmF2#scrollTo=53ed4bcd)
+
+Questo permette di riprodurre gli esperimenti senza configurare manualmente l’ambiente locale, sfruttando le risorse disponibili su Colab.
 Il notebook contiene:
 
 - 📥 caricamento e parsing dei grafi;
