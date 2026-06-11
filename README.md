@@ -33,6 +33,7 @@ Gli esperimenti sono stati condotti sulle istanze DIMACS `g6` e `g12`.
 Progetto sviluppato per il corso:
 
 **Applicazioni Fisiche al Machine Learning**  
+**Prof. Stefano Giagu**
 **Sapienza Università di Roma**  
 **A.A. 2025–2026**
 
