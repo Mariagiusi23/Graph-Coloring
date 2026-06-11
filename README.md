@@ -323,6 +323,30 @@ Possibili miglioramenti futuri includono:
 - misura sistematica di tempi, memoria e passi di repair;
 - confronto con solver esatti o lower bound.
 
+## 📚 Riferimenti bibliografici
+
+- **[1] T. R. Jensen, B. Toft — _Graph Coloring Problems_**, Wiley-Interscience, 1995.  
+  Libro di riferimento sul problema della colorazione di grafi e sulle sue principali formulazioni teoriche.  
+  🔗 [Wiley Online Library](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118032497)  
+  🔗 [Archivio degli autori](https://www.imada.sdu.dk/Research/Graphcol/)
+
+- **[2] T. N. Kipf, M. Welling — _Semi-Supervised Classification with Graph Convolutional Networks_**, ICLR, 2017.  
+  Articolo fondamentale sulle Graph Convolutional Networks, rilevante per il message passing su grafi.  
+  🔗 [arXiv:1609.02907](https://arxiv.org/abs/1609.02907)
+
+- **[3] W. L. Hamilton — _Graph Representation Learning_**, Morgan & Claypool, 2020.  
+  Testo introduttivo e approfondito su embedding di grafi, Graph Neural Network e rappresentazioni neurali su grafi.  
+  🔗 [Pagina del libro](https://www.cs.mcgill.ca/~wlh/grl_book/)  
+  🔗 [PDF preprint](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+
+- **[4] M. J. A. Schuetz, J. K. Brubaker, H. G. Katzgraber — _Graph coloring with physics-inspired graph neural networks_**, Physical Review Research, 4, 043131, 2022.  
+  Lavoro direttamente collegato all’approccio physics-inspired per la colorazione di grafi tramite GNN e modello di Potts.  
+  🔗 [arXiv:2202.01606](https://arxiv.org/abs/2202.01606)  
+  🔗 [Physical Review Research](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.043131)
+
+- **[5] S. Minton, M. D. Johnston, A. B. Philips, P. Laird — _Minimizing conflicts: a heuristic repair method for constraint satisfaction and scheduling problems_**, Artificial Intelligence, 58(1–3), 161–205, 1992.  
+  Articolo classico sull’euristica min-conflicts, utilizzata come procedura di repair locale nella pipeline.  
+  🔗 [PDF](https://www.dcs.gla.ac.uk/~pat/cpM/papers/mintonAIJ.pdf)
 
 
 
