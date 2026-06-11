@@ -322,11 +322,7 @@ Possibili miglioramenti futuri includono:
 - misura sistematica di tempi, memoria e passi di repair;
 - confronto con solver esatti o lower bound.
 
-## 📜 Licenza
 
-Questo progetto è distribuito con licenza **MIT**.
-
-Consulta il file `LICENSE` per i dettagli.
 
 
 
