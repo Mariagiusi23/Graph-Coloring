@@ -142,6 +142,13 @@ Per `g12`, la baseline greedy ottiene infatti una colorazione valida con **31 co
 
 I risultati mostrano inoltre che la sola GNN non raggiunge direttamente zero conflitti vicino alla soglia osservata: il post-processing locale è essenziale per ottenere colorazioni valide.
 
+## 🌈 Esempio di colorazione valida
+
+La figura mostra la migliore colorazione valida ottenuta per il grafo `g6` con `c = 11` colori.  
+La colorazione è stata prodotta dalla pipeline GNN+repair e verificata con **0 conflitti**.
+
+![Colorazione finale g6](results/images/g6_final_colored_graph_robustness_seed0.png)
+
 ## 📁 Struttura della repository
 
 ```text
