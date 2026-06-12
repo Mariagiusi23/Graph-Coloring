@@ -147,7 +147,7 @@ I risultati mostrano inoltre che la sola GNN non raggiunge direttamente zero con
 La figura mostra la migliore colorazione valida ottenuta per il grafo `g6` con `c = 11` colori.  
 La colorazione è stata prodotta dalla pipeline GNN+repair e verificata con **0 conflitti**.
 
-![Colorazione finale g6](results/results/images/g6_final_colored_graph.png)
+![Colorazione finale g6](results/images/g6_final_colored_graph.png)
 
 ## 📁 Struttura della repository
 
